@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="heading">Vocabulary Test</string>
+    <string name="question1">1.Which one is synonym of innocuous : harmful or safe? </string>
+    <string name="question2">2.Synonym of parochial? </string>
+    <string name="question3">3.Count all antonyms of frugal : extravagant, meager, scanty, lavish? </string>
+    <string name="question4">4.Enervate means to sap energy from? </string>
+    <string name="question5">5.Impertinent means being respectful to someone? </string>
+    <string name="question6">6.Amorphous means shapeless? </string>
+    <string name="question7">7.Extant and extinct are synonym? </string>
+</resources>
